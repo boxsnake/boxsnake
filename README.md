@@ -1,4 +1,4 @@
-Hi, I am boxsnake.
+Hi, I am boxsnake, a full-stack developer.
 
 **I code with**
 
@@ -77,13 +77,8 @@ Hi, I am boxsnake.
 ![Docker][badge-docker]
 ![Jenkins][badge-jenkins]
 ![GitHub Actions][badge-github-actions]
-![GitHub][badge-github]
-![GitHub Pages][badge-github-pages]
 ![SVN][badge-svn]
 ![Git][badge-git]
-![Sublime Text][badge-sublime-text]
-![VSCode][badge-vscode]
-![IDEA][badge-idea]
 ![Semantic Release][badge-semantic-release]
 ![Webpack][badge-webpack]
 ![Vite][badge-vite]
@@ -92,13 +87,8 @@ Hi, I am boxsnake.
 [badge-docker]: https://img.shields.io/badge/-Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white
 [badge-jenkins]: https://img.shields.io/badge/-Jenkins-D24939.svg?style=flat-square&logo=jenkins&logoColor=white
 [badge-github-actions]: https://img.shields.io/badge/-Github_Actions-2088FF.svg?style=flat-square&logo=githubactions&logoColor=white
-[badge-github]: https://img.shields.io/badge/-Github-181717.svg?style=flat-square&logo=github&logoColor=white
-[badge-github-pages]: https://img.shields.io/badge/-Github_Pages-222222.svg?style=flat-square&logo=githubpages&logoColor=white
 [badge-svn]: https://img.shields.io/badge/-SVN-809CC9.svg?style=flat-square&logo=subversion&logoColor=white
 [badge-git]: https://img.shields.io/badge/-git-F05032.svg?style=flat-square&logo=git&logoColor=white
-[badge-sublime-text]: https://img.shields.io/badge/-Sublime_Text-FF9800.svg?style=flat-square&logo=sublimetext&logoColor=white
-[badge-vscode]: https://img.shields.io/badge/-vscode-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white
-[badge-idea]: https://img.shields.io/badge/-IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white
 [badge-semantic-release]: https://img.shields.io/badge/-Semantic_Release-494949.svg?style=flat-square&logo=semanticrelease&logoColor=white
 [badge-webpack]: https://img.shields.io/badge/-webpack-8DD6F9.svg?style=flat-square&logo=webpack&logoColor=white
 [badge-vite]: https://img.shields.io/badge/-vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white
