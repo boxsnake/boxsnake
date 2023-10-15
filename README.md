@@ -1,6 +1,6 @@
 Hi, I am boxsnake.
 
-#### I code with
+**I code with**
 
 :computer: **Languages**
 
@@ -13,6 +13,10 @@ Hi, I am boxsnake.
 ![Kotlin][badge-kotlin]
 ![Groovy][badge-groovy]
 ![Visual Basic][badge-visual-basic]
+![HTML5][badge-html]
+![CSS3][badge-css]
+![Less][badge-less]
+![Sass/SCSS][badge-sass]
 
 [badge-javascript]: https://img.shields.io/badge/-Javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=grey
 [badge-typescript]: https://img.shields.io/badge/-Typescript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white
@@ -23,6 +27,10 @@ Hi, I am boxsnake.
 [badge-kotlin]: https://img.shields.io/badge/-Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=white
 [badge-groovy]: https://img.shields.io/badge/-Groovy-4298B8.svg?style=flat-square&logo=apachegroovy&logoColor=white
 [badge-visual-basic]: https://img.shields.io/badge/-Visual_Basic-512BD4.svg?style=flat-square&logo=visualbasic&logoColor=white
+[badge-html]: https://img.shields.io/badge/-HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white
+[badge-css]: https://img.shields.io/badge/-CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white
+[badge-less]: https://img.shields.io/badge/-Less-1D365D.svg?style=flat-square&logo=less&logoColor=white
+[badge-sass]: https://img.shields.io/badge/-Sass/SCSS-CC6699.svg?style=flat-square&logo=sass&logoColor=white
 
 :herb: **Frameworks**
 
@@ -36,6 +44,7 @@ Hi, I am boxsnake.
 ![jQuery][badge-jquery]
 ![Tailwind CSS][badge-tailwind-css]
 ![CodeIgniter][badge-codeigniter]
+![Pug][badge-pug]
 
 [badge-spring]: https://img.shields.io/badge/-Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white
 [badge-vue]: https://img.shields.io/badge/-Vue_2/3-4FC08D.svg?style=flat-square&logo=vue.js&logoColor=white
@@ -47,6 +56,7 @@ Hi, I am boxsnake.
 [badge-jquery]: https://img.shields.io/badge/-jQuery-0769AD.svg?style=flat-square&logo=jquery&logoColor=white
 [badge-tailwind-css]: https://img.shields.io/badge/-Tailwind_CSS-06B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white
 [badge-codeigniter]: https://img.shields.io/badge/-CodeIgniter-EF4223.svg?style=flat-square&logo=codeigniter&logoColor=white
+[badge-pug]: https://img.shields.io/badge/-Pug-A86454.svg?style=flat-square&logo=pug&logoColor=white
 
 :books: **Databases**
 
