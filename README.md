@@ -5,6 +5,7 @@ Hi, I am boxsnake.
 :computer: **Languages**
 
 ![Javascript][badge-javascript]
+![Typescript][badge-typescript]
 ![Node.js][badge-node-js]
 ![PHP][badge-php]
 ![Go][badge-go]
@@ -14,6 +15,7 @@ Hi, I am boxsnake.
 ![Visual Basic][badge-visual-basic]
 
 [badge-javascript]: https://img.shields.io/badge/-Javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=grey
+[badge-typescript]: https://img.shields.io/badge/-Typescript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white
 [badge-node-js]: https://img.shields.io/badge/-Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white
 [badge-php]: https://img.shields.io/badge/-PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white
 [badge-go]: https://img.shields.io/badge/-Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white
